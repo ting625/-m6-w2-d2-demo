@@ -1,1 +1,1 @@
-# -m6-w2-d2-demo
+# m6-w2-d2-demo
